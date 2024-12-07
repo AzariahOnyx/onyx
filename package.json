@@ -2,7 +2,7 @@
   "private": true,
   "name": "AzariahOnyx",
   "version": "0.1.0",
-  "homepage": "https://AzariahOnyx.github.io",
+  "homepage": "https://azariahonyx.github.io/onyx",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
